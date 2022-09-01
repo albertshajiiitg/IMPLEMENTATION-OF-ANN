@@ -1,0 +1,18 @@
+total iterations during training 1000000
+MEAN SQUARE ERROR for the training set :0.000120
+MEAN SQUARE ERROR for the test set :0.000358
+
+The output of the test dataset is 
+1.628000e+02
+6.420000e+01
+115
+
+The output of the Neural network is 
+1.760895e+02
+6.121233e+01
+1.077960e+02
+
+The error in prediction is 
+1.328946e+01
+2.987671e+00
+7.203999e+00
